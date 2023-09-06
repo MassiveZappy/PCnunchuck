@@ -1,6 +1,7 @@
 # PCnunchuck
 A full start-end 3d printing project for a nunchuck using an arduino micro.
 ![Image of a Nintendo Switch Themed Arduino-PowerdNunchuck](https://github.com/MassiveZappy/PCnunchuck/blob/main/img.jpg?raw=true)
+- Weekly - Bi-weekly updates! (Don't quote me on this!)
 
 # Models Exported from Blender-3.3
 - Models are all very unrefined. Dremmel/sanding REQUIRED.
